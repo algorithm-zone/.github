@@ -1,12 +1,15 @@
-## Hi there 👋
+### Directory Structure
+```
+📂 SWEA
+│   ├── 📂 D1
+│   │   ├── 📄 문제번호.py   
+│   │   └── 📄 문제번호.java    
+│   ├── 📂 D2
+│   ├── 📂 D3
+│   └── 📂 D4
+```
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Commit Message
+```
+[D1] 유한소수의 곱셈
+```
