@@ -1,3 +1,7 @@
+# 🤜 코테 정복하자!!! 할수있다아아아아아아~~~‼️ 🤛
+![image](https://github.com/user-attachments/assets/7c3e69d0-f34b-4310-a615-895a69c91b17)
+
+
 ### ⭐ Directory Structure
 ```
 📂 SWEA
